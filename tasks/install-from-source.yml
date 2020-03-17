@@ -9,6 +9,7 @@
       - make
       - curl-devel
       - recode-devel
+      - re2c
       - aspell-devel
       - libxml2-devel
       - pkgconfig
